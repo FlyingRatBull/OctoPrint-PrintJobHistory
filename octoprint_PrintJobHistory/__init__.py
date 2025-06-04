@@ -1441,6 +1441,7 @@ class PrintJobHistoryPlugin(
 				"js/PrintJobHistory-SettingsCompareDialog.js",
 				"js/PrintJobHistory-ComponentFactory.js",
 				"js/quill.min.js",
+				"js/moment-with-locales.min.js",
 				"js/jquery.datetimepicker.full.min.js",
 				"js/TableItemHelper.js",
 				"js/ResetSettingsUtilV3.js"],
